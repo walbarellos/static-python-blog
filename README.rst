@@ -66,3 +66,4 @@ For tests::
     pip install "Nikola[extras,tests]"
 
 For more information, see https://getnikola.com/
+https://colunadomeio.netlify.app
